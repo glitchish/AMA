@@ -1,4 +1,4 @@
-Hello. Go to [Issues](https://github.com/CodingRedpanda/AMA/issues) and create an Issue that is like this: "`username`, `question`", then write your question in more detail, and make the issue.
+Hello. Go to [Issues](https://github.com/theiocoder/AMA/issues) and create an Issue that is like this: "`username`, `question`", then write your question in more detail, and make the issue.
 
 ![How to write an issue](https://user-images.githubusercontent.com/64909897/119878300-f74ab500-bef7-11eb-9a8a-3dbad28c8e3d.png)
 
